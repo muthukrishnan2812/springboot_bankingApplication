@@ -17,7 +17,7 @@ import com.example.Banking_Application.Entity.Account;
 import com.example.Banking_Application.Service.accountService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://lucent-marigold-cb4871.netlify.app")
 @RequestMapping("/api/account")
 public class accountController {
 	
